@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" height="180" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ## 👩‍💻 About Me
 
@@ -93,6 +93,7 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Wandaniaa/Wandaniaa/output/snake.svg)
+<img data-importer="snake" src="https://raw.githubusercontent.com/Wandaniaa/Wandaniaa/snake-output/snake.svg" alt="Snake animation" />
+
 
 </div>
