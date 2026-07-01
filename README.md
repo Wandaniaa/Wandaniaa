@@ -18,7 +18,7 @@ Web Developer • UI/UX Designer • Informatics Engineering Graduate
 
 ---
 
-<img align="right" width="260" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ## 🌸 About Me
 
