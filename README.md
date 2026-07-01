@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=220&section=header&text=Wanda%20Rizki%20Amalia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=220&section=header&text=Wandania%20Rizki%20Amalia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Wanda</h1>
