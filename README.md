@@ -124,6 +124,8 @@ Web Developer • UI/UX Designer • Informatics Engineering Graduate
 
 ---
 
+<img data-importer="snake" src="https://raw.githubusercontent.com/Wandaniaa/Wandaniaa/snake-output/snake.svg" alt="Snake animation" />
+
 <div align="center">
 
 ### 🌸 Thanks for visiting my profile! 🌸
