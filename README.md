@@ -1,99 +1,139 @@
-<h2 align="left">Hi 👋! I'm Wanda, a Web Developer & UI/UX Designer Enthusiast from Indonesia 🇮🇩</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=220&section=header&text=Wanda%20Rizki%20Amalia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
 
-<p align="left">
-🎓 Informatics Engineering Graduate <br>
-🎨 Interested in UI/UX Design and Web Development <br>
+<h1 align="center">Hi 👋 I'm Wanda</h1>
+
+<h3 align="center">
+Web Developer • UI/UX Designer • Informatics Engineering Graduate
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Web+Developer;UI%2FUX+Designer;Python+%7C+Django+%7C+Laravel;Always+learning+new+things+%F0%9F%8C%B8"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Wandaniaa&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wandaniaa&show_icons=true&theme=dracula&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandaniaa&layout=compact&theme=dracula" height="160"/>
-</div>
+<img align="right" width="260" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+
+## 🌸 About Me
+
+💻 Passionate about **Web Development** and **Backend Development**
+
+🎨 Interested in **UI/UX Design** and creating user-friendly interfaces
+
+🌱 Currently learning **Laravel**, **Golang**, and improving my backend development skills
+
+🚀 Building real-world projects to continuously improve my expertise
+
+🎯 Aspiring to become a professional **Backend / Full Stack Web Developer**
+
+<br>
 
 ---
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 📊 GitHub Statistics
 
-## 👩‍💻 About Me
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Wandaniaa&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wandaniaa&layout=compact&theme=radical&hide_border=true"/>
+</p>
 
-- 🔭 Currently building **Hotel Management System** with Django
-- 🌐 Experienced in creating **Company Profile Websites**
-- 🎯 Interested in Backend Development, ERP Systems, and UI/UX
-- 🚀 Always learning new technologies to improve my development skills
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Wandaniaa&theme=radical&hide_border=true"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="35"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="35"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,php,laravel,javascript,html,css,mysql,sqlite,git,github,figma,vscode&perline=7"/>
+
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-🏨 **Hotel Management System**
-- Room & Hall Management
-- Check In / Check Out
-- Invoice Generation
-- Discount Management
-- Financial Reports
+### 🏨 Hotel Management System
+✔ Room & Hall Management
 
-🏢 **Company Profile Website**
-- Responsive Design
-- Admin Dashboard
-- Service Management
-- 
+✔ Check In / Check Out
+
+✔ Invoice Generation
+
+✔ Discount Management
+
+✔ Financial Reports
+
+✔ Django + MySQL
+
+<br>
+
+### 🏢 Company Profile Website
+
+✔ Responsive Design
+
+✔ Service Management
+
+✔ Modern UI
+
+<br>
+
+### 🎨 UI/UX Design
+
+✔ Mobile App Design
+
+✔ Website Redesign
+
+✔ Interactive Prototypes
+
+✔ Figma
+
+---
+
+## 🌱 Currently Learning
+
+- Django
+- Laravel (Building CRUD & REST API Projects)
+- REST API Development
+- Clean Architecture
+- Backend Development
+
 ---
 
 ## 📫 Connect with Me
 
+<p align="center">
+
 <a href="mailto:warizka@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/wandania-rizki-amalia">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/wandania-rizki-amalia">
+<img src="https://img.shields.io/badge/LinkedIn-F48FB1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+</p>
 
 ---
 
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Wandaniaa&theme=dracula)
+### 🌸 Thanks for visiting my profile! 🌸
+
+*"Keep learning, keep building, and never stop growing."*
 
 </div>
 
 ---
 
-<div align="center">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Wandaniaa/Wandaniaa/snake-output/snake.svg" alt="Snake animation" />
-
-
-</div>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=120&section=footer"/>
+</p>
