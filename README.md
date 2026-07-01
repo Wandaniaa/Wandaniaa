@@ -26,7 +26,7 @@ Web Developer • UI/UX Designer • Informatics Engineering Graduate
 
 🎨 Interested in **UI/UX Design** and creating user-friendly interfaces
 
-🌱 Currently learning **Laravel**, **Golang**, and improving my backend development skills
+🌱 Currently learning **Laravel**, **react.js**,**node.js** and improving my backend development skills
 
 🚀 Building real-world projects to continuously improve my expertise
 
